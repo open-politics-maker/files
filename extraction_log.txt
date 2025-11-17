@@ -3,6 +3,7 @@ ZIP EXTRACTION LOG
 
 Total files extracted: 2897
 Files renamed due to duplication: 644
+**DUPLICATE FILES DELETED: All 644 files with '_from_zip' suffix have been removed**
 
 RENAMED FILES (due to existing file with same name):
 --------------------------------------------------------------------------------
@@ -3552,3 +3553,18 @@ ALL EXTRACTED FILES:
   HOUSE_OVERSIGHT_033599.txt
 
 * = File was renamed due to duplicate filename
+
+================================================================================
+DELETION SUMMARY
+================================================================================
+
+All 644 duplicate files (those with '_from_zip' suffix) have been deleted.
+
+Final State:
+- Total .txt files remaining: 2,897
+- Original files (kept): 644
+- New files from ZIP (kept): 2,253
+- Duplicate files (deleted): 644
+
+All files with '_from_zip' suffix have been removed from the repository.
+The original files with the same names were preserved.
